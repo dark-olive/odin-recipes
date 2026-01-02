@@ -1,0 +1,38 @@
+* {
+
+    font-family: "Lucida Handwriting", Verdana, Geneva, Tahoma, cursive;
+    
+}
+
+
+#heading {
+
+    text-align: center;
+    margin: 50px auto 50px;
+    outline-color: black;
+    outline-style: auto;
+    color:black;
+    background-color: blue;
+    font-size: 50px;
+}
+
+.recipes {
+    margin:auto;
+    font-size:30px;
+    text-align:center;
+    outline-color: black;
+    outline-style: auto;
+}
+
+
+
+li {
+
+    padding: 5px;
+    margin:15px;
+    background-color:red;
+    outline-color: black;
+    outline-style: auto;
+
+}
+
