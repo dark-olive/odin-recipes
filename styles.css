@@ -1,7 +1,12 @@
 * {
-
     font-family: "Lucida Handwriting", Verdana, Geneva, Tahoma, cursive;
-    
+    color:white;
+}
+
+body {
+    background-color: black;
+
+
 }
 
 
@@ -33,6 +38,53 @@ li {
     background-color:red;
     outline-color: black;
     outline-style: auto;
+    
 
 }
 
+ul ol {
+    margin:auto;
+    text-align:center;
+    outline-color: black;
+    outline-style: auto;
+}
+
+h2,h3 {
+    text-align: center;
+    margin: 50px auto 50px;
+    outline-color: black;
+    outline-style: auto;
+    color:black;
+    background-color: blue;
+    font-size: 30px;
+}
+
+h4 {
+    text-align: center;
+    margin: 50px auto;
+    color:black;
+    background-color: rgb(255, 0, 0);
+    font-size: 30px;
+}
+
+
+
+p {
+    font-size: 20px;
+    padding:0 200px 0;
+    color:white;
+    outline-color: black;
+    outline-style: auto;
+}
+
+strong {
+    color:red
+}
+
+
+.img {
+
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
